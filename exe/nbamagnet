@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'nbamagnet/cli'
+Nbamagnet::CLI.start

@@ -1,0 +1,6 @@
+##### power statistics #####
+<%= name %> power.
+
+
+##### Skills #####
+<%= name %> skills

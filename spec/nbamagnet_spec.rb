@@ -1,4 +1,5 @@
 require "spec_helper"
+require 'nbamagnet'
 
 # describe Nbamagnet do
 #   it "has a version number" do

@@ -2,8 +2,8 @@ require 'active_support/inflector'
 
 module Nbamagnet
   class Player
-    def self.portray(food)
-      if food.downcase == "kobe"
+    def self.portray(name)
+      if name.downcase == "kobe"
         "Good!"
       else
         "Also Good!"
